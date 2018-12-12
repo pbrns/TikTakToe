@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TikTakToe", "TikTakToe.csproj", "{D3B335C1-7094-4CA6-A142-35E541AFA36C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3B335C1-7094-4CA6-A142-35E541AFA36C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D3B335C1-7094-4CA6-A142-35E541AFA36C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D3B335C1-7094-4CA6-A142-35E541AFA36C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D3B335C1-7094-4CA6-A142-35E541AFA36C}.Release|iPhone.Build.0 = Release|iPhone
+		{D3B335C1-7094-4CA6-A142-35E541AFA36C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D3B335C1-7094-4CA6-A142-35E541AFA36C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{D3B335C1-7094-4CA6-A142-35E541AFA36C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D3B335C1-7094-4CA6-A142-35E541AFA36C}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
